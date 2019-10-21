@@ -1,14 +1,3 @@
-'''
-
-Data Science, Algorithms and Advanced Software Engineering
-Task 18
-Thapelo Moshoadiba, 13 October 2019
-
-● Try to think of a relationship you can model and create a new Python file in this folder called poly.py.
-● Inside poly.py, identify a relationship, and use Polynomial regression to train, predict, and plot your results.
-
-'''
-
 import numpy as np
 import matplotlib.pyplot as plt
 
